@@ -1,0 +1,32 @@
+[
+    {
+        "rank": 1,
+        "repository": "XiaoMi /        ha_xiaomi_home",
+        "stars": "9,065",
+        "link": "https://github.com/XiaoMi/ha_xiaomi_home"
+    },
+    {
+        "rank": 2,
+        "repository": "google-gemini /        cookbook",
+        "stars": "8,553",
+        "link": "https://github.com/google-gemini/cookbook"
+    },
+    {
+        "rank": 3,
+        "repository": "facebookresearch /        AnimatedDrawings",
+        "stars": "11,221",
+        "link": "https://github.com/facebookresearch/AnimatedDrawings"
+    },
+    {
+        "rank": 4,
+        "repository": "unitreerobotics /        unitree_rl_gym",
+        "stars": "738",
+        "link": "https://github.com/unitreerobotics/unitree_rl_gym"
+    },
+    {
+        "rank": 5,
+        "repository": "anoma /        anoma",
+        "stars": "7,658",
+        "link": "https://github.com/anoma/anoma"
+    }
+]
